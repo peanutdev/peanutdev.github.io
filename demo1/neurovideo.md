@@ -1,7 +1,7 @@
 <?nuromd version="1.0" encoding="utf-8" ?>
 <head>
     <meta name="generator" content="Nuro.video"/>
-    <link rel="contents" type="m3u8" href="./demo1-ac0576f1-d246-4f6f-a958-12412cfb1a42/" /> 
+    <link rel="contents" type="m3u8" href="./demo1-ac0576f1-d246-4f6f-a958-12412cfb1a42/playlist.m3u8" /> 
     <link rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="License Information" />
     <meta name="generator" content="Nuro.video"/>
 	 <meta name="author" content="Andrei Slusari, https://example.org, https://example.org, https://example.org, https://example.org"/>
